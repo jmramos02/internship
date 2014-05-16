@@ -1,0 +1,15 @@
+.header{
+	text-align:center;
+	font-family:Segoe UI;
+	font-weight:lighter;
+}
+.content{
+	margin:auto;
+	font-size:14px;
+}
+input[type="text"], select{
+	margin-top:2%;
+}
+.student-number{
+	width:100%;
+}
